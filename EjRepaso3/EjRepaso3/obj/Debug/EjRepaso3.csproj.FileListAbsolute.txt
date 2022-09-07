@@ -1,0 +1,7 @@
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso3\EjRepaso3\EjRepaso3\bin\Debug\EjRepaso3.exe.config
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso3\EjRepaso3\EjRepaso3\bin\Debug\EjRepaso3.exe
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso3\EjRepaso3\EjRepaso3\bin\Debug\EjRepaso3.pdb
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso3\EjRepaso3\EjRepaso3\obj\Debug\EjRepaso3.csproj.AssemblyReference.cache
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso3\EjRepaso3\EjRepaso3\obj\Debug\EjRepaso3.csproj.CoreCompileInputs.cache
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso3\EjRepaso3\EjRepaso3\obj\Debug\EjRepaso3.exe
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso3\EjRepaso3\EjRepaso3\obj\Debug\EjRepaso3.pdb
